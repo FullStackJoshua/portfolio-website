@@ -4,7 +4,7 @@ import NavBar from "./NavBar";
 
 export default function Home() {
   return (
-    <section className="w-full h-screen flex flex-col overflow-auto mt-5 pb-5">
+    <section className="w-full flex flex-col overflow-auto mt-5 pb-5">
       <div className="flex justify-between items-start">
         <div className="font-semibold text-heading-3">[J.Lim]</div>
         <NavBar />
